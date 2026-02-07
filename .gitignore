@@ -1,0 +1,74 @@
+# ========================
+# OS generated files
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Logs
+# ========================
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ========================
+# Environment files
+# ========================
+.env
+.env.*
+*.env
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+venv/
+env/
+.venv/
+.ipynb_checkpoints/
+dist/
+build/
+*.egg-info/
+
+# ========================
+# Node / JavaScript
+# ========================
+node_modules/
+.npm/
+.next/
+out/
+coverage/
+dist/
+
+# ========================
+# IDE / Editors
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# ========================
+# Testing / coverage
+# ========================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# ========================
+# Temporary files
+# ========================
+tmp/
+temp/
+*.tmp
+*.bak
